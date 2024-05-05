@@ -8,5 +8,11 @@ export default async function Home() {
         await signIn()
     }
 
-    return <p>{JSON.stringify(session)}</p>
+    return <div>
+        <p>{JSON.stringify(session)}</p>
+
+        <p>{process.env.TEST2}</p>
+
+        <p>{process.env.TEST1}</p>
+    </div>
 }

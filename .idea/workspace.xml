@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c3ad8bb-e4e8-4e94-bd89-33facd64eeab" name="Changes" comment="">
-      <change afterPath="$USER_HOME$/WebstormProjects/demo-next-auth/src/app/api/auth/[...nextauth]/route.ts" afterDir="false" />
-      <change afterPath="$USER_HOME$/WebstormProjects/demo-next-auth/src/auth.ts" afterDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/demo-next-auth/.idea/discord.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/demo-next-auth/.idea/discord.xml" afterDir="false" />
+    <list default="true" id="9c3ad8bb-e4e8-4e94-bd89-33facd64eeab" name="Changes" comment="Removed unused CSS and SVG files and added next-auth package">
       <change beforePath="$USER_HOME$/WebstormProjects/demo-next-auth/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/demo-next-auth/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/demo-next-auth/package.json" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/demo-next-auth/package.json" afterDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/demo-next-auth/pnpm-lock.yaml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/demo-next-auth/pnpm-lock.yaml" afterDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/demo-next-auth/public/next.svg" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/demo-next-auth/public/vercel.svg" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/demo-next-auth/src/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/demo-next-auth/src/app/globals.css" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/demo-next-auth/src/app/layout.tsx" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/demo-next-auth/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/demo-next-auth/src/app/page.module.css" beforeDir="false" />
       <change beforePath="$USER_HOME$/WebstormProjects/demo-next-auth/src/app/page.tsx" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/demo-next-auth/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/WebstormProjects/demo-next-auth" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ldhdev916"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ldhdev916/demo-next-auth.git",
+    "accountId": "fb3de826-b7fa-4883-9974-4450f08ef43d"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -91,11 +92,24 @@
       <option name="presentableId" value="Default" />
       <updated>1714880383674</updated>
       <workItem from="1714880384764" duration="896000" />
-      <workItem from="1714881288173" duration="369000" />
+      <workItem from="1714881288173" duration="1746000" />
     </task>
+    <task id="LOCAL-00001" summary="Removed unused CSS and SVG files and added next-auth package">
+      <option name="closed" value="true" />
+      <created>1714881821295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714881821295</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Removed unused CSS and SVG files and added next-auth package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed unused CSS and SVG files and added next-auth package" />
   </component>
 </project>
